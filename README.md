@@ -42,6 +42,7 @@ I'm a student passionate about game development, fitness, and technology. With a
 
 - Instagram: paulands
 - Email: paulandressolis@gmail.com
+- Discord: PaulAnds#1822
 
 ## Open for Opportunities: 
 
