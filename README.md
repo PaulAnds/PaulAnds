@@ -29,17 +29,6 @@ I'm a student passionate about game development, fitness, and technology. With a
 - Technical Artist
 - Blueprints
 
-## Projects: 
-
-### Rougue and Dragons
-
-- RPG Fantasy Rougue like game 
-
-### Murder Mystery
-
-- Mystery Game, based around a detective trying to figure out who was the killer
-link: https://github.com/PaulAnds/MurderMysteryMayham
-
 ## Contributions: 
 
 - https://github.com/OctavioDiazG
@@ -49,11 +38,6 @@ link: https://github.com/PaulAnds/MurderMysteryMayham
 
 - Instagram: paulands
 - Email: paulandressolis@gmail.com
-
-## Media: 
-
-- Youtube: Paul Ands
-- Twitch: Paul_Ands
 
 ## Open for Opportunities: 
 
