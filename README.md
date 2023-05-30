@@ -14,6 +14,8 @@ I'm a student passionate about game development, fitness, and technology. With a
 
 ## Skills: 
 
+![PaulAnds's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulands&show_icons=true&theme=radical)
+
 ### Unity
 
 - Technical Artist
@@ -28,6 +30,8 @@ I'm a student passionate about game development, fitness, and technology. With a
 - Multiplayer c++
 - Technical Artist
 - Blueprints
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulands&layout=donut&theme=radical)](https://github.com/paulands/github-readme-stats)
 
 ## Contributions: 
 
