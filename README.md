@@ -16,18 +16,18 @@ I'm a student passionate about game development, fitness, and technology. With a
 
 ### Unity
 
--Technical Artist
--2D Animator
--Junior Programmer
--Game Developer
--Pro Builder
+- Technical Artist
+- 2D Animator
+- Junior Programmer
+- Game Developer
+- Pro Builder
 
 ### Unreal Engine 5
 
--Animator
--Multiplayer c++
--Technical Artist
--Blueprints
+- Animator
+- Multiplayer c++
+- Technical Artist
+- Blueprints
 
 ## Projects: 
 
@@ -47,13 +47,13 @@ link: https://github.com/PaulAnds/MurderMysteryMayham
 
 ## Contact Information: 
 
-Instagram: paulands
-Email: paulandressolis@gmail.com
+- Instagram: paulands
+- Email: paulandressolis@gmail.com
 
 ## Media: 
 
-Youtube: Paul Ands
-Twitch: Paul_Ands
+- Youtube: Paul Ands
+- Twitch: Paul_Ands
 
 ## Open for Opportunities: 
 
