@@ -26,12 +26,14 @@ I'm a student passionate about game development, fitness, and technology. With a
 
 ### Unreal Engine 5
 
-- Animator
 - Multiplayer c++
+- Optimization
 - Technical Artist
 - Blueprints
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulands&layout=donut&theme=radical)](https://github.com/paulands/github-readme-stats)
+
+![Alt](https://repobeats.axiom.co/api/embed/68a5a79eed50b7dd1500ec6a61d219abaa3fdc75.svg "Repobeats analytics image")
 
 ## Contributions: 
 
