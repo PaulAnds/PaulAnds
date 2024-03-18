@@ -15,7 +15,7 @@ I'm a student passionate about game development, and technology. With a future d
 
 ## Skills: 
 
-![](https://github-readme-stats.vercel.app/api?username=paulands&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=paulands&theme=dark&show_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### Unreal Engine 5
 
