@@ -1,7 +1,8 @@
 
-# PaulAnds - Paul Andres Solis Villanueva
+# PaulAnds - Paul Andres Solis Villanueva [![](https://visitcount.itsvg.in/api?id=paulands&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Introduction:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulandstwitch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulands) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/paul_ands) 
 
 My name is Paul Solis im a videogame programer speciliced in Unreal Engine 5, with background in Unity. I lived in United States for 10 years and moved to mexico in order to study in UNIAT, where the focus in the univeristy is making videogames.
 
@@ -14,7 +15,7 @@ I'm a student passionate about game development, and technology. With a future d
 
 ## Skills: 
 
-![PaulAnds's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulands&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=paulands&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### Unreal Engine 5
 
@@ -32,16 +33,16 @@ I'm a student passionate about game development, and technology. With a future d
 - Game Developer
 - Pro Builder
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulands&layout=donut&theme=radical)](https://github.com/paulands/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulands&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Contributions: 
 
-- https://github.com/OctavioDiazG
-- https://github.com/Ketosvaldo
+![](https://github-contributor-stats.vercel.app/api?username=paulands&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=paulands&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contact Information: 
-
-- Instagram: paulands
 - Email: paulandressolis@gmail.com
 - Discord: PaulAnds#1822
 
