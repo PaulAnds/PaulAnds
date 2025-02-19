@@ -4,14 +4,13 @@
 ## Introduction:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulandstwitch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulands) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/paul_ands) 
 
-My name is Paul Solis im a videogame programer speciliced in Unreal Engine 5, with background in Unity. I lived in United States for 10 years and moved to mexico in order to study in UNIAT, where the focus in the univeristy is making videogames.
+My name is Paul Solis I'm a Game Developer specialized in Unreal Engine and background in Unity (as per most of my games in my itch page).
 
-I started coding since my senior year in high school but have been into it since i got into UNIAT (Univeristy of Advanced Technologies)
-Where i have learned to make videogames from unity to unreal engine 5, and even the basics using ASCII in console.
+I currently work on my game Arise Sapling, while doing some other Jams / Freelance jobs :D!
 
 ## Bio: 
 
-I'm a student passionate about game development, and technology. With a future degree in computer science, I create visually stunning games using Unity and Unreal Engine. My goal is to make a lasting impact in the gaming industry with dedication, creativity, and constant growth.
+I try to  create visually stunning games using Unity and mostly Unreal Engine. My goal is to make a lasting impact in the gaming industry with dedication, creativity, and constant growth. I want to be able to help people in the future to be able to make games, not only make them but have the financial backup to make what they really love!
 
 ## Skills: 
 
@@ -19,8 +18,8 @@ I'm a student passionate about game development, and technology. With a future d
 
 ### Unreal Engine 5
 
-- Multiplayer c++
-- Optimization
+- Multiplayer 
+- Memory Optimization
 - Technical Artist
 - Blueprints
 - NVIDIA Integration
@@ -49,7 +48,3 @@ I'm a student passionate about game development, and technology. With a future d
 ## Open for Opportunities: 
 
 Interested in any open possitions for game developers
-
-## License: 
-
-Everything is based on educational Licences, from unity to unreal engine 5
